@@ -1,7 +1,0 @@
-Numpy
-scikit-learn
-pickle
-matplotlib
-pandas
-
-# -e .
